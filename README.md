@@ -4,4 +4,4 @@ Mail analysis tool written in go useful for Incident Reponse and Forensic analys
 Usage: 
 ------------------------------------------
 
-go run mailPiercer.go <EML FILE>
+go run mailPiercer.go EML-FILE
