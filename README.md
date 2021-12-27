@@ -1,5 +1,5 @@
 # MailPiercer
-Mail analysis tool written in go useful for Incident Reponse and Forensic analysis of malicious emails
+Mail analysis tool written in go useful for Incident Response and Forensic analysis of malicious emails
 
 Usage: 
 ------------------------------------------
